@@ -9,3 +9,5 @@ W
 'contracts/analysis-task-management.clar,e/1/e1722461dae4d3b6ec883aa275bf809369430e33
 V
 &tests/analysis-task-management.test.ts,e/4/e42df3d19f3966d2e0b6c75dc7fc8e6f812de4cc
+P
+ contracts/pattern-discovery.clar,0/e/0ef0e6f02988ff183f8eeea606b5c7356efea366
