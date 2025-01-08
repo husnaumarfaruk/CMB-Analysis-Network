@@ -7,3 +7,5 @@ Q
 !tests/cmb-data-management.test.ts,8/f/8fd31f043e4a78db00d0914a4e797396219289b1
 W
 'contracts/analysis-task-management.clar,e/1/e1722461dae4d3b6ec883aa275bf809369430e33
+V
+&tests/analysis-task-management.test.ts,e/4/e42df3d19f3966d2e0b6c75dc7fc8e6f812de4cc
