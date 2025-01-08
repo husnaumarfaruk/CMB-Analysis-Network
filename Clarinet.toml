@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.analysis-task-management]
+path = 'contracts/analysis-task-management.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.cmb-data-management]
 path = 'contracts/cmb-data-management.clar'
 clarity_version = 2
